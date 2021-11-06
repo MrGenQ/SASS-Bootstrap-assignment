@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,qDAAqD",
+"sources": ["../scss/owl.theme.default.min.scss"],
+"names": [],
+"file": "owl.theme.default.min.css"
+}
